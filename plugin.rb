@@ -5,4 +5,5 @@
 
 after_initialize {
 	# 1
+	# 2
 }
