@@ -1,5 +1,5 @@
 # name: bumper
-# version: 0.1.0
+# version: 0.1.1
 # authors: Muhlis Budi Cahyono (muhlisbc@gmail.com)
 # url: https://github.com/muhlisbc/discourse-bumper-plugin
 
