@@ -3,4 +3,6 @@
 # authors: Muhlis Budi Cahyono (muhlisbc@gmail.com)
 # url: https://github.com/muhlisbc/discourse-bumper-plugin
 
-after_initialize { }
+after_initialize {
+	# 1
+}
